@@ -1,13 +1,13 @@
 <h1 align="center">WELCOME TO MY PROFILE<h1> <br>
 <img alt="Coding" width="100%" src="https://miro.medium.com/v2/resize:fit:1100/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
-<h1 align="center">Hi 👋, I'm Dilshan Priyawansha</h1>
-<h3 align="center">I am a passionate React JS Web Developer with expertise in front-end and back-end technologies. I possess a strong eye for design and enjoy transforming complex ideas into user-friendly digital experiences. With proficiency in React JS,HTML, CSS, JavaScript, and frameworks, I excel at problem-solving and delivering high-quality code. I am dedicated to staying up to date with industry trends and eager to contribute my skills to crafting exceptional web experiences.</h3>
+<h1 align="center">Hi 👋, I'm Shamindi Hettisighe</h1>
+<h3 align="center">👋 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</h3>
 
 <br>
 
 - 💬 Ask me about *web development*
 
-- 📫 How to reach me *ngdilshan2002@gmail.com*
+- 📫 How to reach me *hansikashamindi1211@gmail.com*
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
