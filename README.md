@@ -10,11 +10,7 @@
 - 📫 How to reach me *hansikashamindi1211@gmail.com*
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dilshan-priyawansha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n.g.dilshan priyawansha" height="30" width="40" /></a>
-<a href="https://fb.com/n.g.dilshan priyawansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="n.g.dilshan priyawansha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr.dila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.dila" height="30" width="40" /></a>
-</p>
+
 <br>
 <h3 align="left">Languages and Tools:</h3> <br>
 
