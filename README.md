@@ -7,9 +7,10 @@
 
 - 💬 Ask me about *web development*
 
-- 📫 How to reach me *hansikashamindi1211@gmail.com*
-<br>
-<h3 align="left">Connect with me:</h3>
+- How to reach me <br>
+  *hansikashamindi1211@gmail.com*<br>
+  *https://65a3fa4f1e61a38f25ef55f1--willowy-puppy-09585b.netlify.app/*<br>
+  *https://www.linkedin.com/in/shamindi-3b5632215/*
 
 <br>
 <h3 align="left">Languages and Tools:</h3> <br>
