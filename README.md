@@ -8,7 +8,7 @@
 <h3 align="center">How to reach me:</h3>
 <p align="center">
   <a href="mailto:hansikashamindi1211@gmail.com">hansikashamindi1211@gmail.com</a> |
-  <a href="https://65a3fa4f1e61a38f25ef55f1--willowy-puppy-09585b.netlify.app/">Portfolio</a> |
+  <a href="https://shamindi-hettisinghe.netlify.app/">Portfolio</a> |
   <a href="https://www.linkedin.com/in/shamindi-3b5632215/">LinkedIn</a>
 </p>
 
