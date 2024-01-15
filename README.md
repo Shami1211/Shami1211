@@ -1,5 +1,5 @@
 <h1 align="center">👋 WELCOME TO MY PROFILE 👋</h1>
-<p align="center"><img alt="Coding" width="100%" src="https://miro.medium.com/v2/resize:fit:1100/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"></p>
+<p align="center"><img alt="Coding" width="100%" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></p>
 <h2 align="center">Hi there, I'm Shamindi Hettisighe</h2>
 <p align="center">🚀 Welcome to my GitHub! I'm a passionate full-stack developer, and this is my digital playground where I bring ideas to life through code. Explore my repositories to witness my journey in crafting software solutions. Whether you're here to collaborate, learn, or just curious, feel free to browse around. Together, let's build and innovate! 🚀</p>
 
